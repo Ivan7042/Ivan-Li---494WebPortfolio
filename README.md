@@ -10,8 +10,8 @@
    - Added tutorial pop ups for the player picks up new items such as the missile ammo collectible and shield pick up
 
 
-2) Ivan - TimeGhosts here: [Play on Itch.io](https://ive7042.itch.io/timeghosts)
-   contributions"
+2) Ivan Li - TimeGhosts here: [Play on Itch.io](https://ive7042.itch.io/timeghosts)
+   contributions:
    - Created a 3rd person game where the objective is to progress through levels through unlocking doors by controlling playable characters in phase 1 and 2 of each level.
    - Implemented a recording system in which the player's inputs are recorded during phase 1 of the game and played back in phase 2
    - Implemented logic for a timer button that counts down for each phase, while ensuring proper resets and activation.
