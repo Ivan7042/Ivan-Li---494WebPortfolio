@@ -8,3 +8,19 @@
    - Created new rooms for the player to explore utilizing this new mechanic and a "mirror" object which the player can use to bounce projectiles in various ways
    - Implemented logic for the lava to have players take damage when walking across them
    - Added tutorial pop ups for the player picks up new items such as the missile ammo collectible and shield pick up
+
+
+2) Ivan - TimeGhosts here: [Play on Itch.io](https://ive7042.itch.io/timeghosts)
+   contributions"
+   - Created a 3rd person game where the objective is to progress through levels through unlocking doors by controlling playable characters in phase 1 and 2 of each level.
+   - Implemented a recording system in which the player's inputs are recorded during phase 1 of the game and played back in phase 2
+   - Implemented logic for a timer button that counts down for each phase, while ensuring proper resets and activation.
+   - Created 5 levels that test the player in planning the correct path to reach the key and the door within the timit for reach level
+     
+     SPIRTE SOURCES:
+      - skybox: AllSky Free - 10 Sky / Skybox Set by rpgwhitelock
+      - Mountains and large trees: greyRoad Studio LowPoly Trees and Rocks
+      - ghosts: Little Ghost lowpoly(FREE) by SR Studios Kerala
+      - Campfires: Low Poly Fire by Indian Ocean Assets
+      - Walls and doors: 3D - Structures (Dungeons) - Low Poly by Nima Rahimi Studios
+      - key and timer button: Simple Gems and Items Ultimate Animated Customizable Pack by BenjaTheMaker
