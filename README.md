@@ -24,3 +24,5 @@
       - Campfires: Low Poly Fire by Indian Ocean Assets
       - Walls and doors: 3D - Structures (Dungeons) - Low Poly by Nima Rahimi Studios
       - key and timer button: Simple Gems and Items Ultimate Animated Customizable Pack by BenjaTheMaker
+
+3) Ivan Li, Eeshwar Krishnan, Justin Chu, Benjamin Swartz - Gooby's Gotta Getaway [Play on Itch.io](https://jmchu.itch.io/goobys-gotta-getaway)
